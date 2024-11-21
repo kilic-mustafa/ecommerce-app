@@ -5,7 +5,9 @@
 
 ![Ekran görüntüsü 2024-11-21 212728](https://github.com/user-attachments/assets/88481d3e-b103-4ce4-be17-60782745c48f)
 
-![Ekran görüntüsü 2024-11-21 211548](https://github.com/user-attachments/assets/2dfebc45-f102-4ebf-9d01-5130a3be1c23)
+![Ekran görüntüsü 2024-11-21 232709](https://github.com/user-attachments/assets/1f78fc7b-0b02-4419-bffa-d5666d4ec2e7)
+
+![Ekran görüntüsü 2024-11-21 232832](https://github.com/user-attachments/assets/8a80eef8-e837-4186-9abe-2a4827649183)
 
 ![Ekran görüntüsü 2024-11-21 213817](https://github.com/user-attachments/assets/b1efee1d-a32b-44b4-8bb6-9d83c4533ef7)
 
