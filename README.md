@@ -1,10 +1,9 @@
-
 # E-Commerce Application
-
 
 
 ## Description
 The E-Commerce Application is a Java Swing-based desktop app that simulates basic e-commerce operations. It offers a user-friendly interface for account management, product browsing, cart management, processing purchases, and other essential e-commerce functions.
+
 ## Features
 
 - Account creation and management
