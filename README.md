@@ -32,7 +32,7 @@ The E-Commerce Application is a Java Swing-based desktop app that simulates basi
 ## Installation
   1) Clone the repository:
 
-    git clone https://github.com/your-username/ecommerce-app.git
+    git clone https://github.com/kilic-mustafa/ecommerce-app.git
 
     cd ecommerce-app
 
@@ -48,7 +48,7 @@ The E-Commerce Application is a Java Swing-based desktop app that simulates basi
     Ensure the correct format is selected (usually .sql after unzipping).
     Click Go to import the database. This will populate your MySQL instance with the necessary tables and data
 
-  4) Run Project:
+  3) Run Project:
 
     javac Main.java
     java Main
@@ -70,9 +70,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to Java for the programming language.
-- Special thanks to Java Swing for the GUI components.
-- Feel free to customize the content according to your project's specific details. Add more sections or information as needed.
