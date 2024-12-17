@@ -13,7 +13,7 @@ The E-Commerce Application is a Java Swing-based desktop app that simulates basi
 
 ## Screenshots
 
-![Ekran görüntüsü 2024-12-17 212732](https://github.com/user-attachments/assets/5c23cb17-e860-4832-9bb3-4ccf179336b7)
+![Ekran görüntüsü 2024-12-17 214033](https://github.com/user-attachments/assets/fc23e079-bdbc-477c-841b-19e906e88b15)
 
 ![Ekran görüntüsü 2024-11-22 150813](https://github.com/user-attachments/assets/a78623b5-707a-47ff-893a-e781d9602808)
 
